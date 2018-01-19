@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-umeng-social-wrapper",
+  "version": "2.0.2",
+  "description": "",
+  "main": "UMSocialWrapper.js",
+  "files": [
+    "img",
+    "android",
+    "ios",
+    "windows"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "es6-promisify": "^5.0.0"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "~0"
+  }
+}
